@@ -1,3 +1,11 @@
+# React.js Challenge
+
+This is my GitHub React.js project. I have completed the first and second challenges (I think) and added some of my own things to the website, but they aren't too noticable. I tried to have a little fun and started messing around with routes and css a bit. In my opinion, I'd say React.js is more fun to use than HTML/CSS/Javascript because it sort of combines the three. The only problems I ran into when making this would have to be CSS stylesheets. I couldn't really figure them out, which made styling the background for the contact page difficult. In react, the css stylesheets are global, which means multiple files aren't technically necessary. This made it a problem for me to style the body element in the contact page, since changing the css would affect the whole website. I decided to use some javascript and the useEffect hook. That seemed to fix the problem, but I don't know if there are other ways to do it.
+
+As for the third challenge, I still haven't learned enough about databases to be able to do it yet. I still have a bit to learn. I also forgot to mention that I tried making the css a bit better and hopefully more efficient this time. Lastly, I don't know how to deploy this website to GitHub-pages, so for now, it'll just have to be downloaded and run manually. Anyways, that's all I had to say about this project. I spent the whole day yesterday working on this and time flew so fast that I didn't even realize it. I just finished it today so I might as well submit it for now.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
