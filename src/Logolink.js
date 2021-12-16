@@ -6,7 +6,6 @@ const Logolink = () => {
     return ( 
         <div className="logolink">
             <img src={mwLogo} alt="mwLogo" />
-            {/*Contact*/}
             <Link to="./contact">contact</Link>
         </div>
      );
